@@ -1,5 +1,7 @@
 # Noob
 
+#PUBLIC & FOLLOWER ID CLONING
+
 $ pkg update
 
 $ pkg upgrade
